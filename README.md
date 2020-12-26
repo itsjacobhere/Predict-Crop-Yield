@@ -1,2 +1,3 @@
 # Predict-Crop-Yield
-Random forest, linear regression, guassian process, and nearest neighbor from scratch to predict crop yield from year-round weather data
+## This project is in initial upload.
+Random forest, linear regression, guassian process, and nearest neighbor designed from scratch to predict crop yield from year-round weather data
